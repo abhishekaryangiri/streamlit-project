@@ -2,7 +2,7 @@
 
 
 # GenAI Task 8
-#### run command ->  stramlit run app_name.py
+#### run command ->  streamlit run app_name.py
 ## app_basic.py
 
 ```python
